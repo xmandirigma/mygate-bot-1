@@ -28,7 +28,7 @@
 1. Clone the repository:
     ```sh
     git clone https://github.com/rmndkyl/mygate-bot.git
-    cd mygateBot
+    cd mygate-bot
     ```
 
 2. Install the required dependencies:
