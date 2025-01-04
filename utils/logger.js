@@ -50,8 +50,8 @@ const logger = {
         logger.writeToFile('info', message, value);
     },
     warn: (message, value = '') => {
-        logger.log('warn', message, value);
-        logger.writeToFile('warn', message, value);
+        //logger.log('warn', message, value);
+        //logger.writeToFile('warn', message, value);
     },
     error: (message, value = '') => {
         logger.log('error', message, value);
