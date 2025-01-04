@@ -1,6 +1,6 @@
 import { HttpsProxyAgent } from 'https-proxy-agent';
 import fetch from 'node-fetch';
-import { config } from './config.js';
+import { config } from '../config.js';
 
 export class ProxyManager {
     constructor(proxies) {
