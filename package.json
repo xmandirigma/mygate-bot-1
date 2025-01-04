@@ -1,0 +1,21 @@
+{
+  "name": "my-gate",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "rmndkyl",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "crypto": "^1.0.1",
+    "https-proxy-agent": "^7.0.6",
+    "node-fetch": "^3.3.2",
+    "ws": "^8.18.0",
+    "winston": "^3.11.0",
+    "winston-daily-rotate-file": "^4.7.1"
+  }
+}
